@@ -1,8 +1,0 @@
-node_modules
-bower_components
-.sass-cache
-dist
-.tmp
-
-# Cloud9
-.c9
