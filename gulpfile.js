@@ -192,7 +192,7 @@ gulp.task('pagespeed', pagespeed.bind(null, {
 }));
 
 gulp.task('deploy', function () {
-  return gulp.src('./app/**/*').pipe(deploy());
+  return gulp.src('./dist/**/*').pipe($.ghPages());
 });
 
 // Load custom tasks from the `tasks` directory
