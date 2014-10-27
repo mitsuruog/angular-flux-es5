@@ -1,0 +1,16 @@
+{
+  "name": "angular-flux-es5",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mitsuruog/angular-flux-es5",
+  "authors": [
+    "Mitsuru Ogawa <mitsuru.ogawa.jp@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.3.0"
+  }
+}
